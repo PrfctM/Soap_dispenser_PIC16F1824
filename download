@@ -1,0 +1,18 @@
+# MPLAB X
+build/
+dist/
+nbproject/private/
+*.d
+*.o
+*.p1
+*.pre
+*.sym
+*.cof
+*.elf
+*.map
+*.lst
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
